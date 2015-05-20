@@ -1,0 +1,3 @@
+/home/dlloapp/Dojo/platforms/android/build/intermediates/classes/debug
+/home/dlloapp/Dojo/platforms/android/build/intermediates/pre-dexed/debug/classes-75b4195152685b81231d05c78d2670a494142619.jar
+/home/dlloapp/Dojo/platforms/android/build/intermediates/pre-dexed/debug/com.google.zxing.client.android.captureactivity-896ed6b000bf87427ca968923661f76ee0e5fca6.jar

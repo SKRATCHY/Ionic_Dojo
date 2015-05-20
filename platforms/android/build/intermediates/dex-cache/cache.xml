@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/dlloapp/Dojo/platforms/android/libs/com.google.zxing.client.android.captureactivity.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="92d1409f739c4ebcfbab79b2a11ec63d1bf668f5">
+        <dex dex="/home/dlloapp/Dojo/platforms/android/build/intermediates/pre-dexed/debug/com.google.zxing.client.android.captureactivity-896ed6b000bf87427ca968923661f76ee0e5fca6.jar" />
+    </item>
+    <item
+        jar="/home/dlloapp/Dojo/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2581e0a6ef6ed04ec15a526a635548679116cfbd">
+        <dex dex="/home/dlloapp/Dojo/platforms/android/build/intermediates/pre-dexed/debug/classes-75b4195152685b81231d05c78d2670a494142619.jar" />
+    </item>
+
+</items>
